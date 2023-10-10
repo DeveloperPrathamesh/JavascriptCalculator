@@ -1,0 +1,73 @@
+body{
+    background-color:white;
+    color: black;
+}
+
+.dark{
+    background-color: black;
+    color:white;
+}
+
+.darkbtn{
+    width:46px;
+    font-size:30px;
+    padding:2px;
+    float: left;
+}
+
+body p{
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+}
+
+
+.container{
+    width:339px;
+    margin: auto;
+    margin-top: 3%;
+    border:3px solid gray;
+    background-color: lightblue;
+    border-radius: 25px;
+    padding:23px;
+}
+
+
+.buttons{
+    width:325px;
+}
+
+.buttons button{
+    padding:23px;
+    width:62px;
+    margin-bottom: 2px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.funcbtns{
+    padding-top: 6px;
+    margin-left: 14px;
+}
+.funcbtns button{
+    margin:2%;
+}
+.valuebox input{
+    height:82px;
+    width:334px;
+    font-size: 20px;
+    margin: 0 2px;
+    border-radius: 10px;
+    padding:10px;
+}
+
+.buttonsrow5 button{
+    width:100%;
+    padding:23px;
+}
+
+.buttonsrow5 .eqlbtn{
+    width:296px;
+    
+}
+
